@@ -393,9 +393,3 @@ news-aggregator/
 ├── pom.xml
 └── README.md
 ```
-
----
-
-## 📝 Лицензия
-
-[MIT](LICENSE)
